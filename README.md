@@ -7,16 +7,16 @@
 
 - 🎮 I’m a **Game Developer'.**
 
-- 🔭 I’m currently working on **Javascript, TypeScript and "Cocos" projects.**
+- 🔭 I’m currently working on **Javascript, .NET, TypeScript and "Cocos" projects.**
 
 - 🌱 I’m currently learning **alot of other new stuffs.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **MetaVerse Projects**
 
 
 - 📫 How to reach me **feirie001@gmail.com**
 
-- ⚡ Catch-Phrase ****
+- ⚡ Catch-Phrase **Can't get enough Lessons**
 
 ## 🚀 Languages and Tools:
 
