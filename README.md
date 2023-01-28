@@ -7,7 +7,7 @@
 
 - 🎮 I’m a **Game Developer'.**
 
-- 🔭 I’m currently working on **Javascript, .NET, TypeScript and "Cocos" projects.**
+- 🔭 I’m currently working on ** Unity, .NET, TypeScript and "Cocos" projects.**
 
 - 🌱 I’m currently learning **alot of other new stuffs.**
 
